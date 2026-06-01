@@ -1,0 +1,6 @@
+x = input()
+c,h = x.split()
+yuza = int(c) * int(h)
+per = 2 * (int(c) + int(h))
+print(f"Yuza: {yuza}")
+print(f"Perimetr: {per}")
