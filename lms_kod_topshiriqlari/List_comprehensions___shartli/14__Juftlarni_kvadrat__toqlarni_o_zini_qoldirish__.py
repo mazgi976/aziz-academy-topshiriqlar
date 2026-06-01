@@ -1,0 +1,1 @@
+print(*[int(x)**2 if int(x) % 2 == 0 else x for x in input().split()])
