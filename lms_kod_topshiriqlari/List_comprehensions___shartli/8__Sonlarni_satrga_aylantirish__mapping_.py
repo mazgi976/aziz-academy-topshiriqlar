@@ -1,0 +1,1 @@
+print(*(str(x) for x in input().split()))
