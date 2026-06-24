@@ -1,0 +1,1 @@
+print(input().encode('ascii', errors='ignore').decode('ascii'))
