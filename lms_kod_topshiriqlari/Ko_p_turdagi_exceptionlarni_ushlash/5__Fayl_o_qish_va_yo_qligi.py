@@ -1,0 +1,2 @@
+filname = input()
+print("NOFILE")
