@@ -1,0 +1,5 @@
+royxat = input().split()
+p = int(input())
+x = input()
+royxat.insert(p, x)
+print(*royxat)
