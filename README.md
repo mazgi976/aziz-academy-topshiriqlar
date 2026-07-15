@@ -4,38 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`████████░░░░░░░░░░░░` **42%**  (76/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **7%**  (13/179 mavzu)
 
-- ⭐ Jami ball: **44243**
-- 📤 GitHubga yuborilgan topshiriqlar: **1376**
+- ⭐ Jami ball: **51937**
+- 📤 GitHubga yuborilgan topshiriqlar: **1377**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **Metodlar va self ⭐ — instance metodlar**
+**MODUL 1 — Asoslar** → **🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)**
 
-➡️ Keyingi mavzu: *Inkapsulyatsiya — private atributlar (_, __ konvensiya)*
+➡️ Keyingi mavzu: *Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ OOP tushunchasi ⭐ — 4 ustun: inkapsulyatsiya, meros, polimorfizm, abstraksiya
-- ✅ Class va obyekt ⭐ — __init__, atributlar
-- ✅ Metodlar va self ⭐ — instance metodlar  ← yetgan joyingiz
-- ⬜ Inkapsulyatsiya — private atributlar (_, __ konvensiya)
-- ⬜ @property ⭐ — getter/setter to'g'ri yo'li
-- ⬜ classmethod va staticmethod — turli metod turlari
-- ⬜ Meros (Inheritance) ⭐ — class Child(Parent)
-- ⬜ super() va override — ota-klass metodini chaqirish
-- ⬜ Polimorfizm — bir metod, turli xulq
-- ⬜ Composition vs Inheritance ⭐ — qachon meros, qachon kompozitsiya
-- ⬜ Dunder metodlar — 1: __str__, __repr__
-- ⬜ Dunder metodlar — 2: __len__, __eq__, __lt__
-- ⬜ Abstract Base Class (ABC) — abc moduli, majburiy metodlar
-- ⬜ dataclasses ⭐ — sodda model yozishning zamonaviy yo'li
-- ⬜ 🛠 Loyiha: Bank hisobi tizimi — Account, Transaction klasslari
-- ⬜ 🛠 Loyiha: Student / Course modeli — OOP + fayl saqlash
-- ⬜ OOP dizayn tamoyillari — SOLID'ga qisqa kirish
-- ⬜ Mustahkamlash 🔁 — OOP bo'yicha kompleks masala
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ✅ Mantiqiy operatorlar — and, or, not
+- ✅ Solishtirish operatorlari — == != > < >= <=
+- ✅ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ✅ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)  ← yetgan joyingiz
+- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -45,13 +42,13 @@
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `█████████░` 87% | 13/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
-| 3 | 🔸 Shartlar va Sikllar | `█████████░` 87% | 13/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `███████░░░` 72% | 13/18 |
-| 5 | 🔸 Comprehensions | `██████░░░░` 60% | 3/5 |
-| 6 | 🔸 Funksiyalar | `████░░░░░░` 42% | 5/12 |
-| 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
-| 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `██░░░░░░░░` 17% | 3/18 |
+| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
+| 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
+| 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
+| 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
+| 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
+| 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -66,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-08 08:05</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-15 16:40</sub>
