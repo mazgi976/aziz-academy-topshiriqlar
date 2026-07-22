@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **12%**  (21/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **12%**  (22/179 mavzu)
 
-- ⭐ Jami ball: **62044**
-- 📤 GitHubga yuborilgan topshiriqlar: **1534**
+- ⭐ Jami ball: **63679**
+- 📤 GitHubga yuborilgan topshiriqlar: **1535**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **Boshqa formatlash — .format() va % (eski usullar)**
+**MODUL 2 — Stringlar va Formatlash** → **Escape belgilar — \n, \t, \\, \"**
 
-➡️ Keyingi mavzu: *Escape belgilar — \n, \t, \\, \"*
+➡️ Keyingi mavzu: *Ko'p qatorli stringlar — """...""", docstring*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -23,8 +23,8 @@
 - ✅ String metodlari — 2: replace, find, count, split, join
 - ✅ in operatori — substring izlash, mavjudlikni tekshirish
 - ✅ f-string ⭐ — zamonaviy formatlash (f"{ism}")
-- ✅ Boshqa formatlash — .format() va % (eski usullar)  ← yetgan joyingiz
-- ⬜ Escape belgilar — \n, \t, \\, \"
+- ✅ Boshqa formatlash — .format() va % (eski usullar)
+- ✅ Escape belgilar — \n, \t, \\, \"  ← yetgan joyingiz
 - ⬜ Ko'p qatorli stringlar — """...""", docstring
 - ⬜ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
 - ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
@@ -36,7 +36,7 @@
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
-| 2 | 🔸 Stringlar va Formatlash | `██████░░░░` 60% | 6/10 |
+| 2 | 🔸 Stringlar va Formatlash | `███████░░░` 70% | 7/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
@@ -58,4 +58,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-21 11:27</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-22 04:30</sub>
