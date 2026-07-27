@@ -4,35 +4,38 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **20%**  (36/179 mavzu)
+`█████░░░░░░░░░░░░░░░` **26%**  (46/179 mavzu)
 
-- ⭐ Jami ball: **74088**
-- 📤 GitHubga yuborilgan topshiriqlar: **1569**
+- ⭐ Jami ball: **79167**
+- 📤 GitHubga yuborilgan topshiriqlar: **1570**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **Nested loop — ko'paytirish jadvali**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **Tuple unpacking ⭐ — a, b = b, a**
 
-➡️ Keyingi mavzu: *Oddiy algoritmlar — bo'luvchilar, tub son tekshirish*
+➡️ Keyingi mavzu: *Dict — asoslar ⭐ — key/value, qiymatga murojaat*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ if / elif / else ⭐ — shart operatorlari asoslari
-- ✅ Ichma-ich shartlar (nested if) — mantiqni tartiblash
-- ✅ 🛠 Shartli menyu — oddiy CLI menyu
-- ✅ while sikli ⭐ — shartga asoslangan takrorlash
-- ✅ break va continue — sikldan chiqish va o'tkazib yuborish
-- ✅ for va range() ⭐ — ketma-ket takrorlash
-- ✅ for bilan kolleksiyalar — string/list bo'ylab yurish
-- ✅ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
-- ✅ Filtrlash — juft sonlar, musbat sonlar ajratish
-- ✅ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
-- ✅ Nested loop — ko'paytirish jadvali  ← yetgan joyingiz
-- ⬜ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
-- ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) — random + while
-- ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator — menyu + sikl
-- ⬜ Infinite loop 🔁 — cheksiz sikl muammosi va oldini olish
+- ✅ List — yaratish va index ⭐ — ro'yxat asoslari
+- ✅ List metodlari — append, insert, remove, pop, sort, reverse
+- ✅ List slicing va copy — list(), [:], shallow copy
+- ✅ 🛠 List bilan masalalar — filtrlash, transformatsiya
+- ✅ Tuple — o'zgarmas tuzilma, qachon kerak
+- ✅ Tuple unpacking ⭐ — a, b = b, a  ← yetgan joyingiz
+- ⬜ Dict — asoslar ⭐ — key/value, qiymatga murojaat
+- ⬜ Dict metodlari — keys(), values(), items(), get()
+- ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
+- ⬜ Set — asoslar: yaratilish, in, len, takrorlanmaslik
+- ⬜ Set operatsiyalari — union, intersection, difference
+- ⬜ List of dicts ⭐ — o'quvchilar/mahsulotlar ro'yxati
+- ⬜ Nested structures — dict ichida list, list ichida dict
+- ⬜ Ma'lumotni tanlash ⭐ — list vs dict vs set
+- ⬜ Big O — kirish ⭐ — nega dict tez, list sekin?
+- ⬜ 🛠 Loyiha: Statistik hisoblagich — o'rtacha, mediana, moda
+- ⬜ 🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida
+- ⬜ Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar
 
 </details>
 
@@ -42,8 +45,8 @@
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | 🔸 Shartlar va Sikllar | `███████░░░` 73% | 11/15 |
-| 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
+| 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `███░░░░░░░` 33% | 6/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -63,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-25 16:01</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-27 07:18</sub>
