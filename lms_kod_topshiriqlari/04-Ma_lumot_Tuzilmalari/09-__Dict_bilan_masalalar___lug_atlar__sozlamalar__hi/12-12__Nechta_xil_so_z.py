@@ -1,2 +1,3 @@
 n = int(input())
-print(len({input().strip() for _ in range(n)}))
+words = {input().strip() for _ in range(n)}
+print(len(words))
