@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█████░░░░░░░░░░░░░░░` **26%**  (46/179 mavzu)
+`█████░░░░░░░░░░░░░░░` **27%**  (48/179 mavzu)
 
-- ⭐ Jami ball: **79232**
-- 📤 GitHubga yuborilgan topshiriqlar: **1583**
+- ⭐ Jami ball: **80141**
+- 📤 GitHubga yuborilgan topshiriqlar: **1584**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **Tuple unpacking ⭐ — a, b = b, a**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **Dict metodlari — keys(), values(), items(), get()**
 
-➡️ Keyingi mavzu: *Dict — asoslar ⭐ — key/value, qiymatga murojaat*
+➡️ Keyingi mavzu: *🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -23,9 +23,9 @@
 - ✅ List slicing va copy — list(), [:], shallow copy
 - ✅ 🛠 List bilan masalalar — filtrlash, transformatsiya
 - ✅ Tuple — o'zgarmas tuzilma, qachon kerak
-- ✅ Tuple unpacking ⭐ — a, b = b, a  ← yetgan joyingiz
-- ⬜ Dict — asoslar ⭐ — key/value, qiymatga murojaat
-- ⬜ Dict metodlari — keys(), values(), items(), get()
+- ✅ Tuple unpacking ⭐ — a, b = b, a
+- ✅ Dict — asoslar ⭐ — key/value, qiymatga murojaat
+- ✅ Dict metodlari — keys(), values(), items(), get()  ← yetgan joyingiz
 - ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
 - ⬜ Set — asoslar: yaratilish, in, len, takrorlanmaslik
 - ⬜ Set operatsiyalari — union, intersection, difference
@@ -46,7 +46,7 @@
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `███░░░░░░░` 33% | 6/18 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `████░░░░░░` 44% | 8/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-27 08:47</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-29 07:18</sub>
