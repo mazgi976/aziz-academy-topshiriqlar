@@ -1,0 +1,1 @@
+print([h for h in input()])
