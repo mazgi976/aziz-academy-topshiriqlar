@@ -1,0 +1,1 @@
+print([int(p) + 10 for p in input().split()]) 
