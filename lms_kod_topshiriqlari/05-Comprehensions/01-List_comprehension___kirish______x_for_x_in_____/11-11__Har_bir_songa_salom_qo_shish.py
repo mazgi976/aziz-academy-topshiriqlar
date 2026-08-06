@@ -1,0 +1,1 @@
+print(["Salom " + s for s in input().split()])
