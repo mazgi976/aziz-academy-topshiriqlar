@@ -1,0 +1,1 @@
+print([s.upper() for s in input().split()])
