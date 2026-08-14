@@ -1,0 +1,1 @@
+print({p: p - p // 10 for p in map(int, input().split()) if p >= 100})
