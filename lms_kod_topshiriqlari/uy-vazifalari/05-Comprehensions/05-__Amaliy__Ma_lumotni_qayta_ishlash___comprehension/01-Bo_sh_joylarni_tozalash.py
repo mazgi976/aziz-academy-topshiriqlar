@@ -1,0 +1,1 @@
+print([w.strip() for w in input().split(",")])
