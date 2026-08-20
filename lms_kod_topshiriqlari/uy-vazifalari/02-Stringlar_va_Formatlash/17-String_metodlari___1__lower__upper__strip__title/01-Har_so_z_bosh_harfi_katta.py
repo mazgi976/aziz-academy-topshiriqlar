@@ -1,2 +1,2 @@
-matn = input()
-print(matn.title())
+s = input().strip()
+print(s.title())
