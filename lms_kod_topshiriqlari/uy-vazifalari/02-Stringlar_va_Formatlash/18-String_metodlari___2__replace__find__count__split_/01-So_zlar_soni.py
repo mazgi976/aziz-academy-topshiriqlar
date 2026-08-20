@@ -1,3 +1,2 @@
-gap = input()
-sozlar = gap.split()
-print(len(sozlar))
+s = input().strip()
+print(len(s.split()))
