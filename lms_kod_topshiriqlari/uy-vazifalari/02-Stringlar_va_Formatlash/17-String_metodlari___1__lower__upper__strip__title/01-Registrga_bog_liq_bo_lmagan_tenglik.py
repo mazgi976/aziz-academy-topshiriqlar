@@ -1,4 +1,4 @@
-soz1 = input().lower()
-soz2 = input().lower().lower()
+soz1 = input().strip()
+soz2 = input().strip()
 
-print(soz1 == soz2)
+print(soz1.lower() == soz2.lower())
