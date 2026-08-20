@@ -1,2 +1,2 @@
-matn = input()
-print(matn.count('a'))
+s = input().strip()
+print(s.count('a'))
