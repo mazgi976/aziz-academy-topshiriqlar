@@ -1,2 +1,2 @@
-matn = input()
-print(matn.lower())
+s = input().strip()
+print(s.lower())
