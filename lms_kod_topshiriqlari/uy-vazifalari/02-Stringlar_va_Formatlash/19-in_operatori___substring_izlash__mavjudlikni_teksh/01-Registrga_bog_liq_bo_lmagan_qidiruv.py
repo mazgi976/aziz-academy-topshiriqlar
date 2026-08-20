@@ -1,4 +1,4 @@
-matn = input().lower()
-soz = input().lower()
+text = input().strip()
+word = input().strip()
 
-print(soz in matn)
+print(word.lower() in text.lower())
