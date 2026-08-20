@@ -1,3 +1,3 @@
-matn = input().strip()
-print(matn)
-print(len(matn))
+s = input().strip()
+print(s)
+print(len(s))
