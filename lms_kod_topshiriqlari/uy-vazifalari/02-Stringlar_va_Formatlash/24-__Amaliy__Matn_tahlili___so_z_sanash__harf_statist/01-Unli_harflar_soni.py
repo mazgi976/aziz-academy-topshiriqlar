@@ -1,3 +1,4 @@
-matn = input().lower()
-unlilar = matn.count('a') + matn.count('e') + matn.count('i') + matn.count('o') + matn.count('u')
-print(unlilar)
+matn = input().strip().lower()
+unlilar = "aeiou"
+jami = sum(matn.count(harf) for harf in unlilar)
+print(jami)
