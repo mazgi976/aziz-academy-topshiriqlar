@@ -1,6 +1,5 @@
-ism = input()
-yosh = input()
-kurs = input()
-print(f"""Ism: {ism}
-Yosh: {yosh}
-Kurs: {kurs}""")
+ism = input().strip()
+yosh = input().strip()
+kurs = input().strip()
+
+print(f"Ism: {ism}\nYosh: {yosh}\nKurs: {kurs}")
