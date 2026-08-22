@@ -1,2 +1,3 @@
-soz = input()
-print("\"" + soz + "\"")
+soz = input().strip()
+
+print(f'"{soz}"')
