@@ -1,6 +1,6 @@
-taom1 = input()
-taom2 = input()
-taom3 = input()
+taom1 = input().strip()
+taom2 = input().strip()
+taom3 = input().strip()
 
 print(f"""--- MENYU ---
 1. {taom1}
