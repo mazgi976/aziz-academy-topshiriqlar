@@ -1,3 +1,4 @@
-papka = input()
-fayl = input()
-print("C:\\" + papka + "\\" + fayl)
+papka = input().strip()
+fayl = input().strip()
+
+print(f"C:\\{papka}\\{fayl}")
