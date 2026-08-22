@@ -1,4 +1,5 @@
-login = input()
-parol = input()
+login = input().strip()
+parol = input().strip()
 
-print(len(login) > 2 and len(parol) >= 8 and login != parol)
+natija = len(login) >= 3 and len(parol) >= 8 and login != parol
+print(natija)
