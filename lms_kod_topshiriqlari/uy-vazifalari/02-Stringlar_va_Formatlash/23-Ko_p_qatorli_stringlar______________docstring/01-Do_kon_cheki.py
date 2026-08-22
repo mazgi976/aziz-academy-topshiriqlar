@@ -1,6 +1,7 @@
-mahsulot = input()
+mahsulot = input().strip()
 narx = int(input())
 soni = int(input())
+
 jami = narx * soni
 
 print("===== CHEK =====")
