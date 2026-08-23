@@ -1,3 +1,3 @@
-matn = input()
-harf = input()
-print(matn.count(harf))
+s = input()
+char = input()
+print(s.count(char))
