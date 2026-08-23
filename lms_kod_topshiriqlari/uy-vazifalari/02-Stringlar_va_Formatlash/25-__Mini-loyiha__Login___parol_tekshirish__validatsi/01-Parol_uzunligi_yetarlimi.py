@@ -1,2 +1,1 @@
-parol = input()
-print(len(parol) >= 8)
+print(len(input()) >= 8)
