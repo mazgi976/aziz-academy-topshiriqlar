@@ -1,12 +1,12 @@
 ball = int(input())
 
-if ball < 0 or ball > 100:
-    print('notogri')
-elif ball >= 86:
+if 86 <= ball <= 100:
     print(5)
-elif ball >= 71:
+elif 71 <= ball <= 85:
     print(4)
-elif ball >= 56:
+elif 56 <= ball <= 70:
     print(3)
-else:
+elif 0 <= ball <= 55:
     print(2)
+else:
+    print("notogri")
