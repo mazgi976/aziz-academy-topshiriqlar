@@ -1,13 +1,13 @@
-ball = int(input())
+score = int(input())
 
-if ball < 0 or ball > 100:
+if score < 0 or score > 100:
     print("Notogri ball")
 else:
-    if ball >= 90:
+    if score >= 90:
         print("Alo")
-    elif ball >= 75:
+    elif score >= 75:
         print("Yaxshi")
-    elif ball >= 60:
+    elif score >= 60:
         print("Qoniqarli")
     else:
         print("Yiqildi")
