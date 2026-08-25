@@ -1,19 +1,25 @@
-transport_turi = int(input())
-yolovchi_tolfasi = int(input())
+transport = int(input())
+toifa = int(input())
 
-if transport_turi == 1 or transport_turi == 2:
+if transport == 1 or transport == 2:
     narx = 1700
-elif transport_turi == 3:
+    if toifa == 1:
+        print(narx)
+    elif toifa == 2:
+        print(narx // 2)
+    elif toifa == 3:
+        print(0)
+    else:
+        print("Notogri toifa")
+elif transport == 3:
     narx = 4000
+    if toifa == 1:
+        print(narx)
+    elif toifa == 2:
+        print(narx // 2)
+    elif toifa == 3:
+        print(0)
+    else:
+        print("Notogri toifa")
 else:
     print("Notogri transport")
-    exit()
-    
-if yolovchi_tolfasi == 1:
-    print(narx)
-elif yolovchi_tolfasi == 2:
-    print(narx // 2)
-elif yolovchi_tolfasi == 3:
-    print(0)
-else:
-    print("Notogri tolfa")
