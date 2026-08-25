@@ -1,8 +1,8 @@
-login = input()
-parol = input()
+login = input().strip()
+password = input().strip()
 
 if login == "admin":
-    if parol == "1234":
+    if password == "1234":
         print("Xush kelibsiz")
     else:
         print("Parol xato")
