@@ -1,9 +1,9 @@
 n = int(input())
-teskari_son = 0
+reversed_num = 0 
 
 while n > 0:
-    raqam = n % 10
-    teskari_son = teskari_son * 10 + raqam
-    n = n // 10
+    digit = n % 10 
+    reversed_num = reversed_num * 10 + digit
+    n = n // 10 
     
-print(teskari_son)
+print(reversed_num)
