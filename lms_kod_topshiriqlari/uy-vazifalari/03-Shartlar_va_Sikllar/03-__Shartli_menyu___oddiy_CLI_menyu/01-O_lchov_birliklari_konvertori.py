@@ -1,11 +1,11 @@
-tur = int(input())
-qiymat = int(input())
+choice = int(input())
+value = int(input())
 
-if tur == 1:
-    print(qiymat * 1000)
-elif tur == 2:
-    print(qiymat * 60)
-elif tur == 3:
-    print(qiymat * 1000)
+if choice == 1:
+    print(value * 1000)
+elif choice == 2:
+    print(value * 60)
+elif choice == 3:
+    print(value * 1000)
 else:
     print("Notogri tanlov")
