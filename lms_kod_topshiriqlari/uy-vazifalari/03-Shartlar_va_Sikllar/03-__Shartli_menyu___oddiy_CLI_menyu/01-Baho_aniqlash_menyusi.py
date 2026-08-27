@@ -1,21 +1,23 @@
-menyu = int(input())
-ball = int(input())
+choice = int(input())
+score = int(input())
 
-if menyu == 1:
-    if ball >= 90:
+if choice == 1:
+    if score >= 90:
         print("A")
-    elif ball >= 80:
+    elif score >= 80:
         print("B")
-    elif ball >= 70:
+    elif score >=70:
         print("C")
-    elif ball >= 60:
+    elif score >= 60:
         print("D")
     else:
         print("F")
-elif menyu == 2:
-    if ball >= 60:
+elif choice == 2:
+    if score >= 60:
         print("O'tdi")
     else:
         print("Yiqildi")
-else:
+else:    
     print("Notogri tanlov")
+            
+       
