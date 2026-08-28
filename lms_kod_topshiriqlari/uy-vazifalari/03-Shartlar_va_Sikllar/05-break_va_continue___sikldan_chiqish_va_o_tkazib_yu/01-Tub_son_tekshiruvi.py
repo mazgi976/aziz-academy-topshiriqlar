@@ -4,13 +4,11 @@ if n <= 1:
     print("yo'q")
 else:
     tub = True
-    i = 2
-    while i < n:
+    for i in range(2, int(n**0.5) + 1):
         if n % i == 0:
             tub = False
             break
-        i += 1
-        
+            
     if tub:
         print("ha")
     else:
