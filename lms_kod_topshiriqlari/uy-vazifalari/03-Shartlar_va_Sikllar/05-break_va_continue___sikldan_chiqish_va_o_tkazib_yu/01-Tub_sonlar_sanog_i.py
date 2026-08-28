@@ -9,15 +9,15 @@ while True:
     if n < 2:
         continue
         
-    is_tub = True
+    tub = True
     i = 2
     while i * i <= n:
         if n % i == 0:
-            is_tub = False
+            tub = False
             break
         i += 1
         
-    if is_tub:
+    if tub:
         tub_sonlar_soni += 1
         
 print(tub_sonlar_soni)
