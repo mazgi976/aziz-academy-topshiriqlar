@@ -1,8 +1,7 @@
 n = int(input())
 yigindi = 0
 
-for i in range(n):
-    son = int(input())
-    yigindi += son
+for _ in range(n):
+    yigindi += int(input())
     
 print(yigindi)
