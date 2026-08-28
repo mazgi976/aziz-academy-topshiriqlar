@@ -1,7 +1,7 @@
 soz = input()
-teskari = ""
+natija = ""
 
-for belgi in soz:
-    teskari = belgi + teskari
+for ch in soz:
+    natija = ch + natija
     
-print(teskari)
+print(natija)
