@@ -1,11 +1,11 @@
-n = int(input())
-max_son = -float('inf')
-max_index = -1
+N = int(input())
 
-for i in range(1, n + 1):
+eng_katta = None
+eng_katta_pozitsiya = 0
+
+for i in range(1, N + 1):
     son = int(input())
-    if son > max_son:
-        max_son = son
-        max_index = i 
-        
-print(max_index)
+    if eng_katta is None or son > eng_katta:
+        eng_katta = son
+        eng_katta_pozitsiya = i
+print(eng_katta_pozitsiya)
