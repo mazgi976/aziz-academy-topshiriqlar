@@ -1,7 +1,7 @@
-n = int(input())
+N = int(input())
 
-for i in range(n):
-    if i == 0 or i == n - 1:
-        print("*" * n)
+for i in range(1, N + 1):
+    if i == 1 or i == N:
+        print("*" * N)
     else:
-        print("*" + " " * (n - 2) + "*")
+        print("*" + " " * (N - 2) + "*")
