@@ -1,8 +1,7 @@
-s = input()
-
+matn = input()
 yigindi = 0
 
-for belgi in s:
-    yigindi += int(belgi)
+for ch in matn:
+    yigindi += int(ch)
     
 print(yigindi)
