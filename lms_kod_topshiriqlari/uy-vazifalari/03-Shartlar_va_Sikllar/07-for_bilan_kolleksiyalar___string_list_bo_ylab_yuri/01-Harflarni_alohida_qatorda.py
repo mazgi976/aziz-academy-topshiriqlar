@@ -1,3 +1,4 @@
-soz = input()
-for belgi in soz:
-    print(belgi)
+s = input()
+
+for ch in s:
+    print(ch)
