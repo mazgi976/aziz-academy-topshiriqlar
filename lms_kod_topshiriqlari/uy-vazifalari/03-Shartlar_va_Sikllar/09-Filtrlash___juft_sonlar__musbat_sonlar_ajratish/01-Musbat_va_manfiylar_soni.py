@@ -1,14 +1,12 @@
-n = int(input())
-musbatlar = 0 
-manfiylar = 0 
+N = int(input())
+musbat = 0
+manfiy = 0
 
-for i in range(n):
+for _ in range(N):
     son = int(input())
     if son > 0:
-        musbatlar += 1
+        musbat += 1
     elif son < 0:
-        manfiylar += 1 
+        manfiy += 1
         
-print(musbatlar, manfiylar)
-
-    
+print(musbat, manfiy)
