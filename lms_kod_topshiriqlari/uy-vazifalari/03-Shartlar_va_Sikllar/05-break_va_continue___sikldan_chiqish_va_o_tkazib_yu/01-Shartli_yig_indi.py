@@ -1,13 +1,13 @@
 yigindi = 0
 
 while True:
-    n = int(input())
+    son = int(input())
     
-    if n == 0 or n > 100:
+    if son == 0 or son > 100:
         break
-        
-    if n < 0:
+    elif son < 0:
         continue
         
-    yigindi += n
+    yigindi += son
+    
 print(yigindi)
