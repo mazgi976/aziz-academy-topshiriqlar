@@ -1,2 +1,2 @@
-name = input()
-print(f"Salom, {name}!")
+ism = input()
+print(f"Salom, {ism}!")
