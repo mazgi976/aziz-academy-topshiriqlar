@@ -1,6 +1,3 @@
-n = int(input())
-narx = int(input())
-umumiy = n * narx
-soliq = umumiy + umumiy // 10
-print(umumiy)
-print(soliq)
+d, n = int(input()), int(input())
+u = d * n 
+print(u, u + u // 10, sep='\n')
