@@ -1,2 +1,1 @@
-ism = "Aziz"
-print("Ism:", ism)
+print("Ism: Aziz")
