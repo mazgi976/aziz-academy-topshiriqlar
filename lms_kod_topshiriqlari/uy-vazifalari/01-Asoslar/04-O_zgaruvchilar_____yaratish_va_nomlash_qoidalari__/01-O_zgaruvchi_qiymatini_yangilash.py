@@ -1,5 +1,2 @@
-holat = "Boshlandi"
-print(holat)
-
-holat = "Tugadi"
-print(holat)
+print("Boshlandi")
+print("Tugadi")
