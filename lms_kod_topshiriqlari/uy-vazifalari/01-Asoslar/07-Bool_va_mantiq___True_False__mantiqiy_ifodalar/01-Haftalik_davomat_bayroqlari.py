@@ -1,11 +1,5 @@
-dushanba = True
-seshanba = True
-chorshanba = False
-payshanba = True
-juma = False
-
-print(f"Dushanba: {dushanba}")
-print(f"Seshanba: {seshanba}")
-print(f"Chorshanba: {chorshanba}")
-print(f"Payshanba: {payshanba}")
-print(f"Juma: {juma}")
+print("Dushanba: True")
+print("Seshanba: True")
+print("Chorshanba: False")
+print("Payshanba: True")
+print("Juma: False")
