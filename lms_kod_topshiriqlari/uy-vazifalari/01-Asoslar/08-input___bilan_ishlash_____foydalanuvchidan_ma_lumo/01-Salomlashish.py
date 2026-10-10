@@ -1,2 +1,2 @@
 ism = input()
-print("Salom,", ism)
+print(f"Salom, {ism}")
