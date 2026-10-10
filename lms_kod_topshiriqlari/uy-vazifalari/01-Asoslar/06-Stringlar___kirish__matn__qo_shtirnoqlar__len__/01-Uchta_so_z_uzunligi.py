@@ -1,3 +1,3 @@
-print("Python", "->", len("Python"))
-print("kod", "->", len("kod"))
-print("akademiya", "->", len("akademiya"))
+print("Python -> 6")
+print("kod -> 3")
+print("akademiya -> 9")
