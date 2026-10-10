@@ -1,2 +1,2 @@
-soz = input()
-print(f"Uzunlik: {len(soz)}")
+matn = input()
+print(f"Uzunlik: {len(matn)}")
